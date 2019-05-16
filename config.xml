@@ -64,7 +64,9 @@
 
     <plugin name="cordova-plugin-device" />
     <plugin name="cordova-plugin-x-toast" />
-    <plugin name="cordova-plugin-local-notifications" />
+    <!--<plugin name="cordova-plugin-local-notifications" />-->
+        <plugin name="cordova-plugin-local-notifications" spec="https://github.com/katzer/cordova-plugin-local-notifications.git" />
+
     <preference name="target-device" value="handset" />
     
     <gap:platform name="android" />
