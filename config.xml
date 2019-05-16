@@ -4,10 +4,10 @@
 
 <widget id="de.appplant.localnotification.example" version="1.2.6" versionCode="126" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 
-    <name>NotificationExample</name>
+    <name>NotificationExample2</name>
 
     <description>
-         NotificationExample
+         NotificationExample2
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
